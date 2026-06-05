@@ -1,6 +1,6 @@
 # Evacuation Route Graph
 
-Assignment 2 — Graph Problem | KIT205 (or your unit code)
+Assignment 2 — Graph Problem | KIT205 
 
 ## Overview
 Investigates shortest evacuation routing in road networks by comparing
